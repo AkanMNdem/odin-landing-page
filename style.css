@@ -1,0 +1,29 @@
+body {
+
+}
+.section-one {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+.section-one .header {
+    display: flex;
+}
+
+.section-one .content{
+    display: flex;
+}
+
+.section-two{
+    text-align: center;
+}
+
+.section-two .header{
+    
+}
+
+.section-two .images{
+    display: flex
+}
